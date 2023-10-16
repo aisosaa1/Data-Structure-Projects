@@ -1,5 +1,4 @@
-// UMBC - CMSC 341 - Fall 2023 - Proj1
-// Test File
+// Test File for edge cases and errors
 // Aisosa Aimufua (mw47977)
 #include "csr.cpp"
 #include <iostream>
