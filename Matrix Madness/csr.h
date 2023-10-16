@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2023 - Project 1
 #ifndef CSR_H
 #define CSR_H
 #include <iostream>
