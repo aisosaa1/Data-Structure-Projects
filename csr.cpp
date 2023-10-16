@@ -1,6 +1,5 @@
-// CMSC 341 - Fall 2023 - Project 1
 /*
-  auth: Aisosa Aimufua (mw47977)
+  auth: Aisosa Aimufua 
   date: 9/22/23
   desc: full implemenation of the csr/csrlist class
 */
