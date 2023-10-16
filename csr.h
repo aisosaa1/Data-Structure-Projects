@@ -1,4 +1,3 @@
-
 #ifndef CSR_H
 #define CSR_H
 #include <iostream>
