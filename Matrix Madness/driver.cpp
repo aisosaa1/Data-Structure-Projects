@@ -1,10 +1,9 @@
-// CMSC 341 - Fall 2023 - Project 1
 #include "csr.cpp"
 
 class Tester{
     
 };
-// this program presents a sample usage of project 1
+// this program presents a sample usage of the project
 int main()
 {
     try{
